@@ -1,0 +1,4 @@
+[
+{"scenario":1,"model":"A","fact_recall":10,"tone":9,"clarity":8},
+{"scenario":1,"model":"B","fact_recall":10,"tone":6,"clarity":3}
+]

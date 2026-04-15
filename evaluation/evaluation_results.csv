@@ -1,0 +1,5 @@
+scenario,model,fact_recall,tone,clarity
+1,A,10,9,8
+1,B,10,6,3
+2,A,10,10,10
+2,B,7.5,5,3
